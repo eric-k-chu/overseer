@@ -12,6 +12,7 @@
   "app": {
     "windows": [
       {
+        "dragDropEnabled": false,
         "title": "overseer",
         "width": 800,
         "height": 600
